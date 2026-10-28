@@ -1,6 +1,6 @@
 cask "potar" do
-  version "2.0.3"
-  sha256 "5b40442f53cb161d0b8b490ab2b678a599644d62425c9472b923c963aa93d68d"
+  version "2.1.0"
+  sha256 "70c4f64ef67e523164a9fbdeaf37c0020017432f3a869b0a0b9712657acbaaad"
 
   url "https://potar.app/releases/Potar-#{version}.dmg?source=brew"
   name "Potar"
